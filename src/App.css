@@ -1,38 +1,38 @@
-.App {
-  text-align: center;
+.MuiContainer-root {
+  background-color: rgb(18, 18, 18);
+  background-image: linear-gradient(rgba(255, 255, 255, 0.09), rgba(255, 255, 255, 0.09));
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.MuiTypography-root {
+  font-weight: 500;
+  line-height: 1.75;
+  letter-spacing: 0.02857em;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.end button {
   color: white;
+  border: 1px solid white;
 }
-
-.App-link {
-  color: #61dafb;
+.end button:hover {
+  color: white;
+  border: 1px solid rgb(219, 219, 219);
+  background-color: rgba(144, 202, 249, 0.08);
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+body {
+  background-color: rgb(27, 27, 27);
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  flex-basis: 33.333%;
+  padding-left: 0;
+  justify-content: center;
+  background-color: rgb(27, 27, 27);
+}
+ul .MuiGrid-root {
+  flex: 0 0 32.333333%;
+  margin: .25rem;
+}
+ul .MuiPaper-root {
+  color: white;
+  /* border: 1px solid white; */
+  background: linear-gradient(rgba(255, 255, 255, 0.09), rgba(255, 255, 255, 0.09));
 }
