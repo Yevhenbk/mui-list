@@ -1,4 +1,4 @@
-# MUI-List
+# Materual UI List with React Hooks
 
 First time using Material UI in order to get the list of data everytime you click 
 the button it is assosiated with.
