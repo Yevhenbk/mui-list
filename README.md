@@ -8,7 +8,7 @@ the button it is assosiated with.
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/Yevhenbk/mui-list/blob/main/public/logo512.png).
 
 ## Available Scripts
 
