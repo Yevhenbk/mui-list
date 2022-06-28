@@ -4,7 +4,7 @@ Using Material UI in order to get the list of data everytime you click
 the button it is assosiated with.
 
 
-![This is an image](blob:https://web.telegram.org/4b4dfb32-b708-49c4-81f2-b18ccb66bb56)
+![This is an image](https://github.com/Yevhenbk/mui-list/blob/main/public/logo512.png)
 
 # Getting Started with Create React App
 
